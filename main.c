@@ -30,7 +30,7 @@ int main()
 {
 	printf("Hello\n");
 	setchess(BOARDSIZE, BOARDSIZE);
-
+	printf("Hello\n");
 	return 0;
 }
 
