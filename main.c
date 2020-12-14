@@ -31,7 +31,8 @@ int main()
 	printf("Hello\n");
 	setchess(BOARDSIZE, BOARDSIZE);
 	printf("Hello\n");
-	return 0;
+	printf("Hello\n");
+    return 0;
 }
 
 void setchess(int row,int column)
